@@ -2,6 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "My new Victor-Hugo site"
+
+[params]
 description = "Victor-Hugo app test"
 
 # RSS, categories and tags disabled for an easy start
